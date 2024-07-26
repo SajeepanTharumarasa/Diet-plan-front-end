@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	"bracketSpacing": true,
 	"bracketSameLine": true,
@@ -9,3 +10,16 @@
 	"semi": true,
 	"endOfLine": "auto"
 }
+=======
+{
+	"bracketSpacing": true,
+	"bracketSameLine": true,
+	"singleQuote": true,
+	"trailingComma": "all",
+	"arrowParens": "avoid",
+	"tabWidth": 4,
+	"useTabs": true,
+	"semi": true,
+	"endOfLine": "auto"
+}
+>>>>>>> eb23958e391158a0d5bd4c45f56dbbc3e1867de0
